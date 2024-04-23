@@ -26,7 +26,7 @@ N.B. All these resultats represent the accuracy obtained in the real data on the
 
 ## Contributors
 
-This project was developed by Bilelle Triki ,Jean-Baptiste Dubois, Raphael Menguy, Lotfi Kacha and Mohammed Aziz Triki
+This project was developed by Bilelle Triki ,Jean-Baptiste Dubois, Raphael Menguy, Lotfi Kacha and Mohamed Aziz Triki
 
 ## License
 
