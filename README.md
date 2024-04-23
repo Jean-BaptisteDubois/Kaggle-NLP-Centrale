@@ -16,7 +16,7 @@ Below is a summary table showcasing the accuracy scores of our four models:
 
 | Model            | Accuracy |
 |------------------|----------|
-| Bag of Words     | 0.67     |
+| Bag of Words     | 0.65     |
 | Fine-tuning BERT | 0.75     |
 | Wiki Data Enriched | 0.77   |
 | Ensemble model   | 0.76     |
